@@ -1,2 +1,2 @@
 # Next-Js
-A short overview of next Js.
+## A short overview of next Js.
